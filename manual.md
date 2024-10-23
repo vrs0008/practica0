@@ -81,6 +81,6 @@ See the section on [`code`](#code)
 
   Para añadir fotos se usa este codigo: ´![Texto alternativo](URL-de-la-imagen)´
 
-  ![Foto](URL-de-la-imagen)
+  ![Foto](Diagrama sin título.drawio.png)
 
 
